@@ -74,7 +74,8 @@ h1 {
 .col-1,
 .col-11,
 .col-4,
-.col-6 {
+.col-6,
+.col-3 {
   border: 2px dashed black;
   height: 100%;
   margin: 0;
@@ -92,6 +93,7 @@ h1 {
 .vertical .row {
   height: 100%;
 }
-.col-6 {
+.col-6,
+.col-3 {
   height: 50px;
 }

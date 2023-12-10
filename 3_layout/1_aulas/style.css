@@ -55,3 +55,21 @@ h1 {
   margin-bottom: 30px;
   border: 2px solid black;
 }
+
+/*Grid*/
+.container {
+  border: 5px dotted darkgray;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.row {
+  border: 5px solid rgb(163, 17, 90);
+  height: 100px;
+  padding: 10px;
+  margin: 0;
+}
+.col {
+  border: 2px dashed black;
+  height: 100%;
+  margin: 0;
+}
